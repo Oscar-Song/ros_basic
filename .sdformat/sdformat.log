@@ -1,0 +1,12 @@
+Dbg [parser.cc:386] Converting a deprecated source[/home/simulations/public_sim_ws/src/all/simulation_gazebo/simulation_gazebo/worlds/model.world].
+Dbg [Converter.cc:59] Version[1.5] to Version[1.6]
+  Please use the gz sdf tool to update your SDF files.
+    $ gz sdf -c [sdf_file]
+Dbg [parser.cc:386] Converting a deprecated source[/usr/share/gazebo-7/models/sun/model.sdf].
+Dbg [Converter.cc:59] Version[1.5] to Version[1.6]
+  Please use the gz sdf tool to update your SDF files.
+    $ gz sdf -c [sdf_file]
+Dbg [parser.cc:386] Converting a deprecated source[/usr/share/gazebo-7/models/ground_plane/model.sdf].
+Dbg [Converter.cc:59] Version[1.5] to Version[1.6]
+  Please use the gz sdf tool to update your SDF files.
+    $ gz sdf -c [sdf_file]

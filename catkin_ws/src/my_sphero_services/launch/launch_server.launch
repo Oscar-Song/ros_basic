@@ -1,0 +1,8 @@
+<launch>
+    <node pkg="my_sphero_services" 
+          type="move_sphero_server.py" 
+          name="sphero_server" 
+          output="screen">
+    </node>
+    
+</launch>

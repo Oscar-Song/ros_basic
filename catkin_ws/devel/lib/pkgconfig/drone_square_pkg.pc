@@ -1,0 +1,8 @@
+prefix=/home/user/catkin_ws/devel
+
+Name: drone_square_pkg
+Description: Description of drone_square_pkg
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/user/catkin_ws/devel/lib 
+Requires: 

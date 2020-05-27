@@ -1,0 +1,2 @@
+actions_quiz:ardone_action_ex:drone_square_pkg:ex_2_1:ex_2_2:ex_6_3:logger_example_pkg:my_custom_src_msg_pkg:my_package:my_python_class:my_sphero_actions:my_sphero_main:my_sphero_services:my_turtlebot_actions:my_turtlebot_common_pkg:my_turtlebot_main:my_turtlebot_services:my_turtlebot_topics:services_quiz:testing:topics_quiz:unit_3_services
+-DCATKIN_DEVEL_PREFIX=/home/user/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/user/catkin_ws/install -G Unix Makefiles

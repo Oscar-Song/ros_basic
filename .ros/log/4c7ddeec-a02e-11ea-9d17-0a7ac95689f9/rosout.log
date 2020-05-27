@@ -1,0 +1,6 @@
+
+
+0.000000000  Node Startup
+0.000000000 INFO [/tmp/binarydeb/ros-kinetic-roscpp-1.12.14/src/libros/service.cpp:80(service::exists) [topics: /rosout] waitForService: Service [/gazebo/set_physics_properties] has not been advertised, waiting...
+0.023000000 INFO [/tmp/binarydeb/ros-kinetic-roscpp-1.12.14/src/libros/service.cpp:122(service::waitForService) [topics: /rosout, /clock, /gazebo/link_states, /gazebo/model_states] waitForService: Service [/gazebo/set_physics_properties] is now available.
+0.053000000 INFO [/tmp/binarydeb/ros-kinetic-gazebo-ros-2.5.19/src/gazebo_ros_api_plugin.cpp:2301(GazeboRosApiPlugin::physicsReconfigureThread) [topics: /rosout, /clock, /gazebo/link_states, /gazebo/model_states, /gazebo/parameter_descriptions, /gazebo/parameter_updates] Physics dynamic reconfigure ready.

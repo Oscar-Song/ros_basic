@@ -1,0 +1,20 @@
+<launch>
+
+    <node pkg="my_turtlebot_services"
+          type="move_turtlebot_service_server.py"
+          name="move_turtlebot_service_server_node"
+          output="screen">
+    </node>
+    <node pkg="my_turtlebot_actions"
+          type="rec_odom_action_server.py"
+          name="rec_odom_action_server_node"
+          output="screen">
+    </node>
+    <node pkg="my_turtlebot_main"
+          type="move_turtlebot_main.py"
+          name="move_turtlebot_main_node"
+          output="screen">
+    </node>
+
+
+</launch>

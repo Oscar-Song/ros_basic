@@ -1,0 +1,33 @@
+{
+  "editor.autoIndent": true,
+  "editor.tabSize": 4,
+  "editor.dragAndDrop": true,
+  "editor.renderIndentGuides": true,
+  "editor.formatOnSave": true,
+  "editor.insertSpaces": true,
+  "editor.autoSave": "on",
+  "[json]": {
+    "editor.tabSize": 2
+  },
+  "[typescript]": {
+    "editor.tabSize": 4
+  },
+  "[jsonc]": {
+    "editor.tabSize": 2
+  },
+  "files.associations": {
+    "CMakeLists.txt": "makefile"
+  },
+  "files.exclude": {
+    "**/.**": true,
+    "**/**.pyc": true,
+    "**/home/user/catkin_ws/src/CMakeLists.txt": true,
+    "**/compile_flags.txt": true
+  },
+  "files.eol": "\n",
+  "workbench.iconTheme": "theia-file-icons",
+  "workbench.editor.highlightModifiedTabs": true,
+  "search.lineNumbers": true,
+  "git.decorations.colors": true,
+  "workbench.colorTheme": "Default Dark+"
+}

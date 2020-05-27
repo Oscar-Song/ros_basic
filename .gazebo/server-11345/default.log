@@ -1,0 +1,10 @@
+Gazebo multi-robot simulator, version 7.16.0
+Copyright (C) 2012 Open Source Robotics Foundation.
+Released under the Apache 2 License.
+http://gazebosim.org
+
+
+(1590593139 418941240) [Msg] Waiting for master.
+(1590593139 432039530) [Msg] Connected to gazebo master @ http://127.0.0.1:11345
+(1590593139 432266497) [Msg] Publicized address: 172.31.45.32
+(1590593139 951966605) Init world[default]

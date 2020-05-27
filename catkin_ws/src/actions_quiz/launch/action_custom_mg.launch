@@ -1,0 +1,4 @@
+<launch>
+    <node pkg="actions_quiz" type="move_ardone_action_server.py" name="move_ardone_action_server" output="screen">
+    </node>
+</launch>

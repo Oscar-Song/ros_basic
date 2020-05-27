@@ -1,0 +1,8 @@
+prefix=/home/user/catkin_ws/install
+
+Name: my_turtlebot_actions
+Description: Description of my_turtlebot_actions
+Version: 0.0.0
+Cflags: -I/home/user/catkin_ws/install/include
+Libs: -L/home/user/catkin_ws/install/lib 
+Requires: rospy nav_msgs

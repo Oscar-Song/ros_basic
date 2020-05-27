@@ -1,0 +1,8 @@
+prefix=/home/user/catkin_ws/install
+
+Name: ex_6_3
+Description: Description of ex_6_3
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/user/catkin_ws/install/lib 
+Requires: 

@@ -1,0 +1,9 @@
+<launch>
+
+  <!-- Here will go our python script that calls the execute_trajectory service -->
+    <node pkg ="services_quiz"
+        type="bb8_move_custom_service_client.py"
+        name="move_bb8_in_square_custom_service_client"
+        output="screen">
+    </node>
+</launch>
